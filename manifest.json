@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "Media Search",
+    "version": "0.0.2",
+    "icons": {
+        "64":"icons/icon32.png"
+    }
+}
